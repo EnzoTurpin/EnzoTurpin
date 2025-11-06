@@ -1,9 +1,8 @@
 ## Hi, I'm Enzo 👋
 
 
-- 🔭 Actuellement en stage chez Opus Belli
+- 🔭 Actuellement en alternance chez Niji
 - 🌱 J'apprends actuellement Angular
-- 🔍 Je suis à la recherche d'une alternance
 
 
 
